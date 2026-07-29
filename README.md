@@ -1,26 +1,18 @@
-# Python Task Manager - Code Comprehension Exercise
+# WeThinkCode AI Code Exercises
 
-## Exercise: Knowing Where to Start
+Welcome to my GitHub repository.
 
-### Initial Understanding
-The project is a Python Task Manager application. It is organized into separate files, each with a specific responsibility.
+This repository contains my completed exercises for the WeThinkCode AI Code Exercises course.
 
-### Main Components
-- app.py – Main entry point of the application.
-- models.py – Defines the task model and its properties.
-- storage.py – Handles saving and loading tasks.
-- cli.py – Provides the command-line interface for interacting with the application.
+## Completed Exercises
 
-### Technology Stack
-- Python
-- JSON for data storage
-- Command Line Interface (CLI)
-
-### What I Learned
-- How to understand a project by examining its structure.
-- How different files work together.
-- How to identify the entry point of an application.
-- The importance of separating responsibilities into different files.
-
-### Misconceptions
-At first, I thought all the code would be in one file. After exploring the project, I learned that each file has a different responsibility, making the application easier to maintain.
+1. Code Explore Challenge
+2. Algorithm Deconstruction Challenge
+3. Knowing Where to Start
+4. Code Documentation
+5. README Documentation
+6. Error Diagnosis Challenge
+7. Performance Optimization Challenge
+8. AI Solution Verification Challenge
+9. Using AI to Help with Testing
+10. Function Decomposition Challenge
