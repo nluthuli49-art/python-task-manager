@@ -1,4 +1,4 @@
-# Code Explore Challenge
+# Knowing Where To Start
 
 This folder contains my Knowing where to start exercises.
 
